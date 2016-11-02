@@ -1,4 +1,4 @@
 # CodeTurtleHunters
 Dibujemos en un lienzo...
 
-![image of Turtle](images/turtle.png)
+![image of Turtle](turtle.png)
